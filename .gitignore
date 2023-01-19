@@ -1,0 +1,6 @@
+.idea
+target
+/json_data/
+/parquet_data/
+*.parquet
+*.json
